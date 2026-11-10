@@ -1,0 +1,51 @@
+{
+  "properties": [
+    {
+      "id": "house",
+      "name": "The Pavilion House",
+      "area": "Assagao",
+      "type": "Detached house",
+      "agent": 0
+    },
+    {
+      "id": "loft",
+      "name": "Foundry Loft",
+      "area": "Panaji",
+      "type": "Loft apartment",
+      "agent": 1
+    },
+    {
+      "id": "garden",
+      "name": "The Garden Cottage",
+      "area": "Aldona",
+      "type": "Garden cottage",
+      "agent": 2
+    },
+    {
+      "id": "courtyard",
+      "name": "Courtyard Residence",
+      "area": "Moira",
+      "type": "Family house",
+      "agent": 0
+    },
+    {
+      "id": "studio",
+      "name": "The Lightwell Studio",
+      "area": "Fontainhas",
+      "type": "Studio apartment",
+      "agent": 1
+    },
+    {
+      "id": "terrace",
+      "name": "Parkside Terrace",
+      "area": "Siolim",
+      "type": "Terraced house",
+      "agent": 2
+    }
+  ],
+  "agents": [
+    "Amelia Hart",
+    "Daniel Cole",
+    "Nina Reed"
+  ]
+}
